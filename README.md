@@ -4,4 +4,4 @@
 
 - É necessário também a instação do MySQL Workbench 8.0 e a criação da base de dados.
 
-- Criar a base de dado conforme arquivo: Modelo BD Relacional Bem Vindo Professor.
+- Criar a base de dado conforme arquivo: Modelo BD Relacional Bem Vindo Professor.mwb.
