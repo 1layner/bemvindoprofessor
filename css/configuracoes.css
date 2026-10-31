@@ -1,0 +1,11 @@
+#iconInativoUsuario{
+    color: red;
+}
+
+#iconAtivoUsuario{
+    color: green;
+}
+
+#configButtonInativar{
+    margin-top: 50px;
+}
